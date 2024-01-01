@@ -1,0 +1,10 @@
+.mainContent {
+  padding: 0px;
+  background: var(--primary-background-color);
+  height: "100vh";
+}
+@media only screen and (min-width: 1080px) {
+  .mainContent {
+    padding-left: 300px;
+  }
+}

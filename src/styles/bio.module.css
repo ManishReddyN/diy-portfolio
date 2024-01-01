@@ -1,0 +1,14 @@
+.bioWrapper {
+  border-left: 3px solid var(--form-border-color);
+  padding-left: 20px;
+  margin-left: 14px;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 1080px) {
+  .bioWrapper {
+    border-left: 2px solid var(--form-border-color);
+    margin-left: 12px;
+  }
+}

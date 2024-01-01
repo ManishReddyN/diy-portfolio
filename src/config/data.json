@@ -1,0 +1,338 @@
+{
+  "displayPicture": "avatar.webp ",
+  "displayPicture_Recommendations": "(Square Shape, Preferred Size: 300x300, Recommended)",
+  "displayPictureAlt": "Display Picture",
+  "home": {
+    "name": "First Name",
+    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "socialLinks": {
+      "explanation": "Replace the links with your own. If you don't have a profile, you can just delete that element. If there is a missing website, please find an icon at https://react-icons.github.io/react-icons/ and paste the name in the icon section.",
+      "suggestion": "Don't have more than 5 social links. Copy from other_examples into mainItems if needed",
+      "mainItems": [
+        {
+          "name": "Github",
+          "link": "https://github.com",
+          "icon": "IoLogoGithub"
+        },
+        {
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com",
+          "icon": "IoLogoLinkedin"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com",
+          "icon": "IoLogoTwitter"
+        },
+        {
+          "name": "Blog",
+          "link": "https://username.com",
+          "icon": "IoReader"
+        },
+        {
+          "name": "Appointment",
+          "link": "https://calendly.com",
+          "icon": "IoCalendar"
+        }
+      ],
+      "other_examples": [
+        {
+          "name": "Behance",
+          "link": "https://username.behance.net",
+          "icon": "IoLogoBehance"
+        },
+        {
+          "name": "Dribbble",
+          "link": "https://dribbble.com",
+          "icon": "IoLogoDribbble"
+        },
+        {
+          "name": "Codepen",
+          "link": "https://codepen.io",
+          "icon": "IoLogoCodepen"
+        },
+        {
+          "name": "Medium",
+          "link": "https://medium.com",
+          "icon": "FaMedium"
+        },
+        {
+          "name": "Dev",
+          "link": "https://dev.to",
+          "icon": "FaDev"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com",
+          "icon": "GrInstagram"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com",
+          "icon": "IoLogoFacebook"
+        },
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com",
+          "icon": "RiSoundcloudLine"
+        },
+        {
+          "name": "Pinterest",
+          "link": "https://www.pinterest.com",
+          "icon": "IoLogoPinterest"
+        },
+        {
+          "name": "Tumblr",
+          "link": "https://username.tumblr.com",
+          "icon": "IoLogoTumblr"
+        },
+        {
+          "name": "Unsplash",
+          "link": "https://unsplash.com",
+          "icon": "FaUnsplash"
+        },
+        {
+          "name": "Flickr",
+          "link": "https://www.flickr.com",
+          "icon": "FaFlickr"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com",
+          "icon": "IoLogoYoutube"
+        },
+        {
+          "name": "Vimeo",
+          "link": "https://vimeo.com",
+          "icon": "IoLogoVimeo"
+        },
+        {
+          "name": "FourSquare",
+          "link": "https://foursquare.com",
+          "icon": "IoLogoFoursquare"
+        },
+        {
+          "name": "Digg",
+          "link": "https://digg.com",
+          "icon": "FaDigg"
+        },
+        {
+          "name": "Reddit",
+          "link": "https://reddit.com",
+          "icon": "FaRedditAlien"
+        },
+        {
+          "name": "LeetCode",
+          "link": "https://leetcode.com",
+          "icon": "SiLeetcode"
+        },
+        {
+          "name": "StopStalk",
+          "link": "https://stopstalk.com",
+          "icon": "SiStopstalk"
+        },
+        {
+          "name": "Patreon",
+          "link": "https://patreon.com",
+          "icon": "RiPatreonFill"
+        },
+        {
+          "name": "Quora",
+          "link": "https://quora.com",
+          "icon": "FaQuora"
+        },
+        {
+          "name": "Kaggle",
+          "link": "https://kaggle.com",
+          "icon": "FaKaggle"
+        },
+        {
+          "name": "Xing",
+          "link": "https://xing.com",
+          "icon": "FaXing"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "explanation": "Replace the content here with your information. Landscape orientation is recommended for the profile picture (600x450 preferred). Place the images in the /public/assets/profile folder and make sure the name of the file matches with the image name.",
+    "profilePictureFileName": "Profile.webp ",
+    "profilePictureAlt": "Profile Image",
+    "name": "Full Legal Name",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "details": {
+      "explanation": "Remove those which don't apply.",
+      "nationality": "Nationality",
+      "location": "Location",
+      "dateExplanation": "The date needs to be entered in the format YYYY-MM-DD. Represents the start of your experience.",
+      "experienceStartDate": "2020-01-01",
+      "currentRole": "Role",
+      "openToCollaboration": "Yes/No",
+      "coreCompetencies": "Core competencies",
+      "personalPursuits": "Personal pursuits"
+    },
+    "resume": "Resume_Sample.pdf"
+  },
+  "bio": {
+    "work_experience": [
+      {
+        "company": "Company1",
+        "roles": [
+          {
+            "role": "Role1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Dec 2021 - Present"
+          },
+          {
+            "role": "Role2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Dec 2020 - Dec 2021"
+          }
+        ],
+        "companyURL": "https://company1.com"
+      },
+      {
+        "company": "Company2",
+        "roles": [
+          {
+            "role": "Role3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Jan 2020 - Dec 2020"
+          }
+        ],
+        "companyURL": "https://company2.com"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Institution1",
+        "degrees": [
+          {
+            "role": "Master",
+            "year": "Dec 2021 - Present",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          {
+            "role": "Bachelor",
+            "year": "Dec 2020 - Dec 2021",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        ],
+        "institutionURL": "https://institution1.com"
+      },
+      {
+        "institution": "Institution2",
+        "degrees": [
+          {
+            "role": "High School",
+            "year": "Jan 2020 - Dec 2020",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        ],
+        "institutionURL": "https://institution2.com"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "organization": "Organization1",
+        "roles": [
+          {
+            "role": "Role1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Dec 2021 - Present"
+          },
+          {
+            "role": "Role2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Dec 2020 - Dec 2021"
+          }
+        ],
+        "organizationURL": "https://organization1.com"
+      },
+      {
+        "organization": "Organization2",
+        "roles": [
+          {
+            "role": "Role3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Jan 2020 - Dec 2020"
+          }
+        ],
+        "organizationURL": "https://organization2.com"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "title": "Interest 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "MdHome"
+    },
+    {
+      "title": "Interest 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "RiRobot2Line"
+    },
+    {
+      "title": "Interest 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "HiOutlineChip"
+    },
+    {
+      "title": "Interest 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "GiFullMotorcycleHelmet"
+    },
+    {
+      "title": "Interest 5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "AiFillAlert"
+    }
+  ],
+  "portfolio": {
+    "explanation": "Replace the content here with your information. Remove those which don't apply. Place the images in the /public/assets/portfolio folder and make sure the name of the file matches with the image name. Preferred Image Size: 600x400",
+    "portfolioItems": [
+      {
+        "title": "Project 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "https://github.com",
+        "imageName": "Project 1.webp",
+        "imageAlt": "Project 1 Image",
+        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+      },
+      {
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "https://github.com",
+        "imageName": "Project 2.webp  ",
+        "imageAlt": "Project 2 Image",
+        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+      }
+    ]
+  },
+  "archive": {
+    "explanation": "Replace the content here with your information. Remove those which don't apply. Place the images in the /public/assets/archive folder and make sure the name of the file matches with the image name. Preferred Image Size: 570x312",
+    "archiveItems": [
+      {
+        "title": "Blog 1",
+        "date": "Jan 2020",
+        "imageName": "Blog 1.webp",
+        "imageAlt": "Blog Image",
+        "link": "https://medium.com"
+      },
+      {
+        "title": "Paper 1",
+        "date": "Jan 2020",
+        "imageName": "Paper 1.webp",
+        "imageAlt": "Paper Image",
+        "link": "https://arxiv.org"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "1234567890",
+    "emailID": "email@example.com",
+    "address": "123 Main St, Anytown USA 12345",
+    "addressLink": "https://www.google.com/maps"
+  }
+}

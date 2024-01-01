@@ -1,0 +1,21 @@
+.sidebar_separator {
+  border-top: 1px solid var(--primary-text-color);
+  margin-top: 16px;
+  margin-bottom: 16px;
+  opacity: 0.06;
+}
+.menu_icon {
+  position: fixed;
+  margin-left: 20px;
+  margin-top: 10px;
+  z-index: 100;
+  cursor: pointer;
+}
+.close_icon {
+  position: float;
+  margin-right: 10px;
+  margin-top: 10px;
+  z-index: 100;
+  cursor: pointer;
+  float: right;
+}

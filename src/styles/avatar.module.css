@@ -1,0 +1,15 @@
+.avatar {
+  padding: 0.5em 0.5em;
+  text-align: center;
+}
+.avatar_image {
+  border-radius: 40%;
+  overflow: hidden; 
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.2);
+}
+.avatar_box {
+  margin: 0px auto;
+  padding: 20px 0px;
+  max-width: fit-content;
+  max-height: fit-content;
+}

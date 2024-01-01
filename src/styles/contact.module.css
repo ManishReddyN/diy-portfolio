@@ -1,0 +1,152 @@
+.formField {
+  margin-top: 30px;
+  position: relative;
+}
+
+.formField label {
+  color: var(--content-text-color);
+  position: absolute;
+  left: 15px;
+  top: -13px;
+  font-weight: 600;
+  background: var(--primary-background-color);
+  transition: all 0.4s ease-out;
+  pointer-events: none;
+  padding: 0 10px;
+  font-size: 0.94rem;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.formField input,
+.formField textarea {
+  border: 2px solid var(--form-border-color);
+  font-size: 1rem;
+  background: transparent;
+  font-family: Nunito, sans-serif;
+  color: var(--primary-text-color);
+  height: 50px;
+  padding: 0 15px;
+  width: 100%;
+  font-weight: 700;
+}
+
+.formField textarea {
+  padding-top: 1rem;
+  height: 175px;
+}
+.formField textarea::placeholder,
+.formField input::placeholder {
+  color: var(--content-text-color);
+  font-size: 0.9rem;
+  font-weight: 400;
+  opacity: 40%;
+}
+
+.formButton {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.formButton,
+.formButton::before {
+  transition: all 0.4s ease-out;
+}
+
+.formButton {
+  position: relative;
+  padding: 0 30px;
+  background: var(--primary-accent-color);
+  color: var(--primary-text-color);
+  border: 0;
+  display: inline-block;
+  z-index: 1;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  height: 50px;
+  line-height: 50px;
+}
+
+.formButton::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: auto;
+  bottom: 0;
+  height: 2px;
+  width: 100%;
+  background: var(--primary-text-color);
+  z-index: -1;
+  transform: scaleX(0);
+  transform-origin: 0 0;
+}
+
+.formButton:hover {
+  color: var(--primary-text-color);
+  cursor: pointer;
+}
+
+.formButton:hover::before {
+  transform: scaleX(1);
+}
+
+.contactInfoBlock {
+  align-items: center;
+  margin-top: 30px;
+  background: var(--secondary-background-color);
+  padding: 30px;
+  display: flex;
+}
+
+.contactInfoBlockIcon {
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  flex: 0 0 70px;
+  max-width: 70px;
+  padding: 10px;
+  border: 2px solid var(--form-border-color);
+  text-align: center;
+  line-height: 66px;
+  margin-right: 20px;
+  color: var(--content-text-color);
+}
+
+.containerInfoBlockText {
+  display: flex;
+  align-items: center;
+}
+
+.containerInfoBlockText p {
+  margin: auto;
+  font-size: large;
+  color: var(--content-text-color);
+  line-height: 40px;
+}
+
+.contactInfoBlock a {
+  text-decoration: none;
+  color: var(--content-text-color);
+}
+
+.contactInfoBlock a:hover {
+  transition: all 0.5s ease-out;
+  color: var(--primary-accent-color);
+}
+
+.contactInfoBlock p strong {
+  color: var(--primary-text-color);
+}
+.errorMessage h6 {
+  color: #cd5c5c;
+  font-size: 0.8rem;
+  margin-top: 5px;
+  font-weight: 600;
+}
+.successMessage h6 {
+  color: #5cb85c;
+  font-size: 0.8rem;
+  margin-top: 5px;
+  font-weight: 600;
+}

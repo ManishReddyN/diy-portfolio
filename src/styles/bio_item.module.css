@@ -1,0 +1,90 @@
+.bioItem {
+  margin-top: 15px;
+}
+
+.bioItemDate {
+  color: var(--secondary-text-color);
+  font-size: 1.15rem;
+  font-weight: 700;
+  position: relative;
+}
+
+.bioItemDate::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 13px;
+  height: 1.5px;
+  width: 40px;
+  border-radius: 3px;
+  background: var(--form-border-color);
+}
+
+.bioItemContent {
+  padding-left: 30px;
+}
+.bioItem h5 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--primary-accent-color);
+  position: relative;
+}
+.bioItem h5::before {
+  content: "";
+  position: absolute;
+  left: -29px;
+  top: 6px;
+  height: 15px;
+  width: 15px;
+  border-radius: 100px;
+  background: var(--primary-background-color);
+  border: 3px solid var(--form-border-color);
+}
+@media only screen and (max-width: 1080px) {
+  .bioItem h5 {
+    font-size: 1.2rem;
+    margin-bottom: 0px;
+  }
+  .bioItem h5 span svg {
+    height: 0.9rem;
+    width: 0.9rem;
+    margin-bottom: 0px;
+  }
+  .bioItemDate {
+    font-size: 1rem;
+  }
+  .bioItemDate::after {
+    height: 0px;
+    width: 0px;
+  }
+  .bioItem h5::before {
+    left: -26.5px;
+    top: 4px;
+    height: 12px;
+    width: 12px;
+  }
+  .bioItemContent {
+    padding-left: 12px;
+  }
+  .bioItemContent h6 {
+    font-size: 1rem;
+  }
+}
+.bioItem h5 span svg {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0px 0px 11px 10px;
+  color: var(--primary-accent-color);
+  cursor: pointer;
+}
+.bioItemContent {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--primary-text-color);
+}
+.bioItem p {
+  color: var(--content-text-color);
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: justify;
+}

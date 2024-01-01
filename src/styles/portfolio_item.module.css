@@ -1,0 +1,123 @@
+.portfolioItemLink {
+  text-decoration: none;
+}
+
+.portfolioItem {
+  background-color: var(--secondary-background-color);
+  padding: 20px 20px 10px 20px;
+  position: relative;
+  color: var(--primary-text-color);
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.portfolioItemImageContainer {
+  max-width: 100%;
+  position: relative;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.portfolioItemImage::before {
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  height: calc(100% - 20px);
+  width: calc(100% - 20px);
+  background: var(--primary-text-color);
+  opacity: 90%;
+  transition: all 0.4s ease-out;
+  transform: scaleX(0);
+  transform-origin: 0;
+  z-index: 98;
+}
+.portfolioItemImage ul {
+  margin-bottom: 0;
+  padding-left: 0;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  text-align: center;
+  width: 100%;
+  transform: translateY(-50%);
+  visibility: hidden;
+  opacity: 0;
+  margin-top: 30px;
+  transition: all 0.2s ease-in-out 0.2s;
+  z-index: 99;
+}
+.portfolioItemImage ul svg {
+  background: var(--content-text-color);
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  line-height: 2rem;
+
+  border-radius: 100%;
+  transition: all 0.4s ease-out;
+}
+.portfolioItemImage ul svg:hover {
+  background: var(--primary-accent-color);
+}
+.portfolioItemImageContainer:hover {
+  .portfolioItemImage::before {
+    transform: scaleX(1);
+  }
+  .portfolioItemImage ul {
+    visibility: visible;
+    opacity: 1;
+    margin-top: 0px !important;
+  }
+}
+
+.portfolioItem:hover {
+  .portfolioItemHeading {
+    color: var(--primary-accent-color);
+  }
+}
+
+.portfolioItemHeading {
+  transition: all 0.5s ease-out;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: var(--primary-text-color);
+  margin-left: 5px;
+}
+
+.portfolioItemDescription {
+  color: var(--content-text-color);
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+.portfolioItemTechnologies {
+  color: var(--primary-text-color);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+}
+.portfolioItemTechnologies span {
+  background-color: var(--secondary-accent-color);
+  padding: 4px 7px 2px 7px;
+  border-radius: 20px;
+  margin-right: 5px;
+}
+
+@media only screen and (max-width: 1080px) {
+  .portfolioItem {
+    margin-bottom: 20px;
+  }
+  .portfolioItemHeading {
+    font-size: 1rem;
+  }
+  .portfolioItemDescription {
+    font-size: 0.8rem;
+  }
+  .portfolioItemTechnologies {
+    font-size: 0.7rem;
+  }
+}

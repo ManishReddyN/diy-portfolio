@@ -1,0 +1,70 @@
+.sectionTitle {
+  max-height: 130px;
+}
+
+.sectionTitle h1 {
+  font-weight: bolder;
+  position: relative;
+  padding-bottom: 15px;
+  text-transform: uppercase;
+  font-size: 2.57rem;
+  line-height: 3.2857rem;
+  z-index: 4;
+  color: var(--primary-text-color);
+}
+.sectionTitlePC h1 {
+  font-size: 2.57rem;
+  line-height: 3.2857rem;
+}
+.sectionTitleMobile h1 {
+  font-size: 2.17rem;
+  line-height: 2.857rem;
+}
+.sectionTitle h1::after,
+.sectionTitle h1::before {
+  z-index: 4;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: auto;
+  bottom: 0;
+  height: 5px;
+  border-radius: 100px;
+}
+.sectionTitle h1::before {
+  width: 100px;
+  background: var(--secondary-accent-color);
+}
+.sectionTitle h1::after {
+  width: 35px;
+  background: var(--primary-accent-color);
+}
+.sectionTitle span {
+  font-size: 4.5rem;
+}
+.sectionTitle span {
+  position: relative;
+  left: 0;
+  top: 100%;
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 900;
+  color: var(--secondary-background-color);
+  opacity: 0.6;
+  display: inline-block;
+  text-transform: uppercase;
+  z-index: 3;
+  user-select: none;
+  white-space: nowrap;
+  margin-left: -5px;
+}
+.sectionTitlePC span {
+  transform: translateY(-65%);
+  font-size: 6rem;
+  line-height: 1;
+}
+.sectionTitleMobile span {
+  transform: translateY(-95%);
+  font-size: 3.2rem;
+  line-height: 1;
+}

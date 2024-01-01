@@ -1,0 +1,5 @@
+export const placeholderBlur =
+  "data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN8+xMAAtkB6IJKKOMAAAAASUVORK5CYII=";
+
+export const avatarBlur =
+  "data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNcuPtuPQAG+AK6y3umlwAAAABJRU5ErkJggg==";

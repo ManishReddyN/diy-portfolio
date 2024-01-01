@@ -1,0 +1,94 @@
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/nunito-black-webfont.woff2") format("woff2"),
+    url("../fonts/nunito-black-webfont.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/nunito-black-webfont.woff2") format("woff2"),
+    url("../fonts/nunito-black-webfont.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/nunito-extrabold-webfont.woff2") format("woff2"),
+    url("../fonts/nunito-extrabold-webfont.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/nunito-bold-webfont.woff2") format("woff2"),
+    url("../fonts/nunito-bold-webfont.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts//nunito-semibold-webfont.woff2") format("woff2"),
+    url("../fonts//nunito-semibold-webfont.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts//nunito-regular-webfont.woff2") format("woff2"),
+    url("../fonts//nunito-regular-webfont.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts//nunito-light-webfont.woff2") format("woff2"),
+    url("../fonts//nunito-light-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts//nunito-extralight-webfont.woff2") format("woff2"),
+    url("../fonts//nunito-extralight-webfont.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+}
+
+:root {
+  --primary-background-color: #10121b;
+  --primary-text-color: aliceblue;
+  --secondary-background-color: #191d2b;
+  --primary-accent-color: #037fff;
+  --secondary-text-color: #a4a6b3;
+  --content-text-color: #a4acc4;
+  --secondary-accent-color: #143055;
+  --text-shadow-color: #141722;
+  --form-border-color: #2e344e;
+}
+body {
+  background-color: var(--primary-background-color) !important;
+  color: var(--primary-text-color) !important;
+  margin: 0px;
+  font-family: "Nunito", sans-serif !important;
+  line-height: 1.8rem;
+}
+::selection {
+  background: var(--primary-accent-color);
+  color: var(--primary-text-color);
+}
+
+.containerMain {
+  padding: 30px;
+  background: var(--primary-background-color);
+  min-height: 100vh;
+}
+
+@media only screen and (max-width: 1080px) {
+  .containerMain {
+    padding: 30px 20px;
+  }
+}
