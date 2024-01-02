@@ -1,5 +1,5 @@
 {
-  "displayPicture": "avatar.webp ",
+  "displayPicture": "avatar.webp",
   "displayPicture_Recommendations": "(Square Shape, Preferred Size: 300x300, Recommended)",
   "displayPictureAlt": "Display Picture",
   "home": {
@@ -156,7 +156,7 @@
   },
   "profile": {
     "explanation": "Replace the content here with your information. Landscape orientation is recommended for the profile picture (600x450 preferred). Place the images in the /public/assets/profile folder and make sure the name of the file matches with the image name.",
-    "profilePictureFileName": "Profile.webp ",
+    "profilePictureFileName": "Profile.webp",
     "profilePictureAlt": "Profile Image",
     "name": "Full Legal Name",
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
