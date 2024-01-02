@@ -304,7 +304,7 @@
         "title": "Project 2",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "link": "https://github.com",
-        "imageName": "Project 2.webp  ",
+        "imageName": "Project 2.webp",
         "imageAlt": "Project 2 Image",
         "technologies": ["Technology 1", "Technology 2", "Technology 3"]
       }
