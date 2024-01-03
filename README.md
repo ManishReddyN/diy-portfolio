@@ -1,38 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👨💻 DIY Portfolio
 
-## Getting Started
+Welcome to DIY Portfolio, a Next.js based website for creating your personalized portfolio with ease. This minimalistic and customizable portfolio allows you to showcase your skills, projects, and experiences hassle-free.
 
-First, run the development server:
+### Getting Started
+
+Follow these steps to set up and customize your DIY Portfolio:
+
+#### 1. Clone the Repository
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/ManishReddyN/diy-portfolio.git
+```
+
+#### 2. Install Dependencies
+
+Navigate to the project's root directory and install the necessary dependencies:
+
+```bash
+cd diy-portfolio
+npm ci
+```
+
+#### 3. Configure Data & Images
+
+Refer to the [official documentation](configuring-data.json.md) for detailed instructions on configuring the `data.json` file. Customize fields such as:
+
+* **name:** Your full name
+* **title:** Your professional title
+* **description:** A brief introduction about yourself
+* **socialLinks:** Links to your social media profiles
+* **projects:** Details about your projects (title, description, image, technologies used, etc.)
+* **experience:** List of your experiences
+
+#### 5. Run the Application
+
+Start the Next.js development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) in your web browser to view your DIY Portfolio.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Customization
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Feel free to personalize the styling, layout, and content to match your preferences. The website utilizes Next.js components, making it straightforward to modify and expand.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+When you're ready to share your portfolio with the world, deploy it on platforms like Vercel by simply linking your GitHub project with a deployment.
 
-## Learn More
+### License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the Mozilla Public License 2.0 - see the LICENSE.md file for details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+***
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Craft your unique portfolio with DIY Portfolio! If you have any questions or suggestions, refer to the [documentation](https://app.gitbook.com/o/-MXDmwJM3QWRPsR6lTmr/s/NF5LCNNEp2j2Ly4sFR0G/) or feel free to reach out. Happy showcasing!
