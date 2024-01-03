@@ -67,4 +67,4 @@ This project is licensed under the Mozilla Public License 2.0 - see the LICENSE.
 
 ***
 
-Craft your unique portfolio with DIY Portfolio! If you have any questions or suggestions, refer to the [documentation](https://app.gitbook.com/o/-MXDmwJM3QWRPsR6lTmr/s/NF5LCNNEp2j2Ly4sFR0G/) or feel free to reach out. Happy showcasing!
+Craft your unique portfolio with DIY Portfolio! If you have any questions or suggestions, refer to the [documentation](https://docs.nmreddy.me/diy-portfolio/) or feel free to reach out. Happy showcasing!
