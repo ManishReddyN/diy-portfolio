@@ -34,7 +34,7 @@ npm ci
 
 #### 3. Configure Data & Images ⚙️
 
-Refer to the [official documentation](configuring-data.json.md) for detailed instructions on configuring the `data.json` file. Customize fields such as:
+Refer to the [official documentation](https://docs.nmreddy.me/diy-portfolio/configuring-data.json) for detailed instructions on configuring the `data.json` file. Customize fields such as:
 
 * **name:** Your full name
 * **title:** Your professional title
