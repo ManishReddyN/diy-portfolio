@@ -15,7 +15,7 @@ export default function Archive() {
             key={item.title}
             title={item.title}
             date={item.date}
-            imageSrc={"/assets/archive/" + item.imageName}
+            imageSrc={"/assets/archive/" + item.imageName.trim()}
             imageAlt={item.imageAlt}
             link={item.link}
           />

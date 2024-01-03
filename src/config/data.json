@@ -1,14 +1,15 @@
 {
-  "displayPicture": "avatar.webp",
-  "displayPicture_Recommendations": "(Square Shape, Preferred Size: 300x300, Recommended)",
-  "displayPictureAlt": "Display Picture",
+  "displayPicture": {
+    "fileName": "avatar.webp",
+    "alt": "Display Picture"
+  },
   "home": {
     "name": "First Name",
     "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "socialLinks": {
       "explanation": "Replace the links with your own. If you don't have a profile, you can just delete that element. If there is a missing website, please find an icon at https://react-icons.github.io/react-icons/ and paste the name in the icon section.",
-      "suggestion": "Don't have more than 5 social links. Copy from other_examples into mainItems if needed",
-      "mainItems": [
+      "suggestion": "Don't have more than 5 social links. Copy from otherExamples into mainLinks if needed",
+      "mainLinks": [
         {
           "name": "Github",
           "link": "https://github.com",
@@ -35,7 +36,7 @@
           "icon": "IoCalendar"
         }
       ],
-      "other_examples": [
+      "otherExamples": [
         {
           "name": "Behance",
           "link": "https://username.behance.net",
@@ -155,16 +156,13 @@
     }
   },
   "profile": {
-    "explanation": "Replace the content here with your information. Landscape orientation is recommended for the profile picture (600x450 preferred). Place the images in the /public/assets/profile folder and make sure the name of the file matches with the image name.",
     "profilePictureFileName": "Profile.webp",
     "profilePictureAlt": "Profile Image",
     "name": "Full Legal Name",
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "details": {
-      "explanation": "Remove those which don't apply.",
       "nationality": "Nationality",
       "location": "Location",
-      "dateExplanation": "The date needs to be entered in the format YYYY-MM-DD. Represents the start of your experience.",
       "experienceStartDate": "2020-01-01",
       "currentRole": "Role",
       "openToCollaboration": "Yes/No",
@@ -174,7 +172,7 @@
     "resume": "Resume_Sample.pdf"
   },
   "bio": {
-    "work_experience": [
+    "workExperience": [
       {
         "company": "Company1",
         "roles": [
@@ -232,7 +230,7 @@
         "institutionURL": "https://institution2.com"
       }
     ],
-    "volunteer_experience": [
+    "volunteerExperience": [
       {
         "organization": "Organization1",
         "roles": [
@@ -290,7 +288,6 @@
     }
   ],
   "portfolio": {
-    "explanation": "Replace the content here with your information. Remove those which don't apply. Place the images in the /public/assets/portfolio folder and make sure the name of the file matches with the image name. Preferred Image Size: 600x400",
     "portfolioItems": [
       {
         "title": "Project 1",
@@ -311,12 +308,11 @@
     ]
   },
   "archive": {
-    "explanation": "Replace the content here with your information. Remove those which don't apply. Place the images in the /public/assets/archive folder and make sure the name of the file matches with the image name. Preferred Image Size: 570x312",
     "archiveItems": [
       {
         "title": "Blog 1",
         "date": "Jan 2020",
-        "imageName": "Blog 1.webp",
+        "imageName": "Blog 1.webp   ",
         "imageAlt": "Blog Image",
         "link": "https://medium.com"
       },

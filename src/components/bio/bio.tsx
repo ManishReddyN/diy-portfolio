@@ -6,9 +6,9 @@ import BioItem from "./bioItem";
 import data from "@/config/data.json";
 
 export default function Resume() {
-  const workExperience = data.bio.work_experience;
+  const workExperience = data.bio.workExperience;
   const education = data.bio.education;
-  const volunteerExperience = data.bio.volunteer_experience;
+  const volunteerExperience = data.bio.volunteerExperience;
   return (
     <div className="containerMain">
       <Title title="Biography" />

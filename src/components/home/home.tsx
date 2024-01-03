@@ -5,7 +5,7 @@ import { getDynamicIcon } from "../core/dynamicIconHelper";
 
 export default function Home() {
   const homeData = data.home;
-  const socialLinks = homeData.socialLinks.mainItems;
+  const socialLinks = homeData.socialLinks.mainLinks;
   const circlesBackgroundAnimation = (
     <ul className={styles.circles}>
       <li></li>

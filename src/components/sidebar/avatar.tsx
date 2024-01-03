@@ -12,8 +12,8 @@ export default function Avatar() {
           <div className={styles.avatar}>
             <Image
               className={styles.avatar_image}
-              src={"/assets/" + data.displayPicture}
-              alt={data.displayPictureAlt}
+              src={"/assets/" + data.displayPicture.fileName.trim()}
+              alt={data.displayPicture.alt}
               width={120}
               height={120}
               placeholder="blur"

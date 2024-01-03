@@ -17,7 +17,9 @@ export default function Profile() {
         <Col md={6}>
           <div className={styles.profileImage}>
             <Image
-              src={"/assets/profile/" + profileData.profilePictureFileName}
+              src={
+                "/assets/profile/" + profileData.profilePictureFileName.trim()
+              }
               alt={profileData.profilePictureAlt}
               width={0}
               height={0}

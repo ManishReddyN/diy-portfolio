@@ -13,7 +13,7 @@ export default function Portfolio() {
           <PortfolioItem
             key={item.title}
             title={item.title}
-            imageSrc={"/assets/portfolio/" + item.imageName}
+            imageSrc={"/assets/portfolio/" + item.imageName.trim()}
             imageAlt={item.imageAlt}
             link={item.link}
             description={item.description}
