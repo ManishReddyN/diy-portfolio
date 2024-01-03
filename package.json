@@ -28,7 +28,6 @@
     "@types/loadable__component": "^5.13.8",
     "@types/node": "18.14.0",
     "@types/react": "18.0.28",
-    "@types/react-burger-menu": "^2.8.3",
     "@types/react-dom": "18.0.11"
   }
 }
