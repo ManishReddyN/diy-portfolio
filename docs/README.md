@@ -1,4 +1,4 @@
-# DIY Portfolio
+# 👨💻 DIY Portfolio
 
 Welcome to DIY Portfolio, a Next.js based website for creating your personalized portfolio with ease. This minimalistic and customizable portfolio allows you to showcase your skills, projects, and experiences hassle-free.
 
