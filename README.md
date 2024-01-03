@@ -63,7 +63,7 @@ When you're ready to share your portfolio with the world, deploy it on platforms
 
 ### License 📝
 
-This project is licensed under the Mozilla Public License 2.0 - see the LICENSE.md file for details.
+This project is licensed under the Mozilla Public License 2.0 - see the LICENSE file for details.
 
 ***
 
