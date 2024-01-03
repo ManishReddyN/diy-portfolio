@@ -12,7 +12,7 @@
     "@loadable/component": "^5.16.3",
     "@vercel/analytics": "^1.1.1",
     "@vercel/speed-insights": "^1.0.2",
-    "bootstrap": "^5.3.1",
+    "bootstrap": "^5.3.2",
     "eslint": "8.34.0",
     "eslint-config-next": "14.0.4",
     "next": "13.5.4",
@@ -28,6 +28,6 @@
     "@types/loadable__component": "^5.13.8",
     "@types/node": "18.14.0",
     "@types/react": "18.0.28",
-    "@types/react-dom": "18.0.11"
+    "@types/react-dom": "18.2.18"
   }
 }
