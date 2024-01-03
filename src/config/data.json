@@ -179,12 +179,12 @@
         "company": "Company1",
         "roles": [
           {
-            "role": "Role1",
+            "title": "Role1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Dec 2021 - Present"
           },
           {
-            "role": "Role2",
+            "title": "Role2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Dec 2020 - Dec 2021"
           }
@@ -195,7 +195,7 @@
         "company": "Company2",
         "roles": [
           {
-            "role": "Role3",
+            "title": "Role3",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Jan 2020 - Dec 2020"
           }
@@ -208,12 +208,12 @@
         "institution": "Institution1",
         "degrees": [
           {
-            "role": "Master",
+            "title": "Master",
             "year": "Dec 2021 - Present",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           },
           {
-            "role": "Bachelor",
+            "title": "Bachelor",
             "year": "Dec 2020 - Dec 2021",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           }
@@ -224,7 +224,7 @@
         "institution": "Institution2",
         "degrees": [
           {
-            "role": "High School",
+            "title": "High School",
             "year": "Jan 2020 - Dec 2020",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           }
@@ -237,12 +237,12 @@
         "organization": "Organization1",
         "roles": [
           {
-            "role": "Role1",
+            "title": "Role1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Dec 2021 - Present"
           },
           {
-            "role": "Role2",
+            "title": "Role2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Dec 2020 - Dec 2021"
           }
@@ -253,7 +253,7 @@
         "organization": "Organization2",
         "roles": [
           {
-            "role": "Role3",
+            "title": "Role3",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Jan 2020 - Dec 2020"
           }

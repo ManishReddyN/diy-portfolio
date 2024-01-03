@@ -1,6 +1,4 @@
 import styles from "@/styles/sidebar.module.css";
-import { forwardRef, useState } from "react";
-import { push as MenuBar } from "react-burger-menu";
 import { Sidebar, useProSidebar } from "react-pro-sidebar";
 import Avatar from "./avatar";
 import { MdOutlineClose, MdOutlineMenu } from "react-icons/md";
@@ -9,7 +7,6 @@ import MenuItemList from "./menu";
 import { Col } from "react-bootstrap";
 
 export default function SideBar() {
-  // const [isOpen, setIsOpen] = useState(false);
   const isSmallScreen = useMediaQuery(1080);
   const { toggleSidebar, toggled } = useProSidebar();
 

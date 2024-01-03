@@ -24,7 +24,7 @@ export default function PortfolioItem({
   technologies,
 }: PortfolioItemProps) {
   return (
-    <Col lg={6} sm={12}>
+    <Col lg={4} md={6} sm={12}>
       <Link href={link} target="_blank" className={styles.portfolioItemLink}>
         <div className={styles.portfolioItem}>
           <div className={styles.portfolioItemImageContainer}>

@@ -2,7 +2,7 @@ import styles from "@/styles/bio_item.module.css";
 import { Col, Row } from "react-bootstrap";
 import { FaLink } from "react-icons/fa";
 interface RoleAndYearProps {
-  role: string;
+  title: string;
   year: string;
   description?: string;
 }
@@ -33,7 +33,7 @@ export default function BioItem({
                   {roleAndYear.year}
                 </Col>
                 <Col md={9} sm={12} className={styles.bioItemContent}>
-                  {roleAndYear.role}
+                  {roleAndYear.title}
                   <p>{roleAndYear.description}</p>
                 </Col>
               </Row>

@@ -6,7 +6,7 @@ import data from "@/config/data.json";
 export default function Portfolio() {
   const portfolioItems = data.portfolio.portfolioItems;
   return (
-    <div style={{ padding: "30px" }}>
+    <div className="containerMain">
       <Title title="Portfolio" />
       <Row>
         {portfolioItems.map((item) => (

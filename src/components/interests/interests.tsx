@@ -7,7 +7,7 @@ import { getDynamicIcon } from "../core/dynamicIconHelper";
 export default function Interests() {
   const interests = data.interests;
   return (
-    <div style={{ padding: "30px" }}>
+    <div className="containerMain">
       <Title title="Interests" />
       <Row>
         {interests &&

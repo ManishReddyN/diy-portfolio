@@ -10,7 +10,7 @@ export default function Resume() {
   const education = data.bio.education;
   const volunteerExperience = data.bio.volunteer_experience;
   return (
-    <div style={{ padding: "30px" }}>
+    <div className="containerMain">
       <Title title="Biography" />
       <div>
         {workExperience && (

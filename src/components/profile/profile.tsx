@@ -9,7 +9,6 @@ import data from "@/config/data.json";
 
 export default function Profile() {
   const profileData = data.profile;
-  const isMobile = useMediaQuery(1080);
   const isSmallScreen = useMediaQuery(1080);
   return (
     <div className="containerMain">

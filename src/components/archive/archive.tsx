@@ -6,7 +6,7 @@ import data from "@/config/data.json";
 export default function Archive() {
   const archiveItems = data.archive.archiveItems;
   return (
-    <div style={{ padding: "30px" }}>
+    <div className="containerMain">
       <Title title="Archive" />
 
       <Row>
