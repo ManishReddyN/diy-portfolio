@@ -247,7 +247,7 @@ The icon name should refer to an icon in the [react-icons](https://react-icons.g
 
 Details about your portfolio items, including titles, descriptions, project links, image file names, image alt texts, and technologies used. All fields are mandatory.
 
-**Place the images in the `public/assets/portfolio` folder and mention the image file name including extension in the `imageName` field of each portfolio item.**
+**Place the images in the `public/assets/portfolio` folder and mention the image file name including extension in the `imageName` field of each portfolio item. Preferred Image Size: 600x400**
 
 **Example:**
 
@@ -276,7 +276,7 @@ The section to fill the archive page of the site.
 
 Array containing all the items, where each archive item is a blog article/paper published/any other content. All the fields are mandatory.
 
-**Place the images in the `public/assets/archive` folder and mention the image file name including extension in the `imageName` field of each archive item.**
+**Place the images in the `public/assets/archive` folder and mention the image file name including extension in the `imageName` field of each archive item. Preferred Image Size: 570x310**
 
 
 
