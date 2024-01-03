@@ -31,44 +31,42 @@ This documentation provides guidelines and examples for filling in the JSON conf
 * **intro**: Brief introduction or bio.
 *   **socialLinks:** Array of social link objects. Each social link object has a `name, link, and icon` fields. All are mandatory. All items in `mainLinks` will be displayed on the home page.&#x20;
 
-    * Replace the links with your own. If you don't have a profile, delete the element. For missing websites, find an icon [here](https://react-icons.github.io/react-icons/) and paste the name (e.g. FaHome) in the icon section.
+    * Replace the links with your own. If you don't have a profile, delete the element.&#x20;
+    * Copy from [Example social links page](example-social-links.md) if you find any usable example. For missing websites, find an icon [here](https://react-icons.github.io/react-icons/) and paste the name (e.g. FaHome) in the icon section.
     * **Suggestion**: Limit to 5 social links.&#x20;
-    * Copy from `otherExamples` into `mainLinks` if needed.
     * **Example**:
 
     ```json
     "home": {
-      "name": "Your First Name",
+      "name": "First Name",
       "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "socialLinks": {
-        "mainLinks": [
-          {
-            "name": "Github",
-            "link": "https://github.com",
-            "icon": "IoLogoGithub"
-          },
-          {
-            "name": "LinkedIn",
-            "link": "https://www.linkedin.com",
-            "icon": "IoLogoLinkedin"
-          },
-          {
-            "name": "Twitter",
-            "link": "https://twitter.com",
-            "icon": "IoLogoTwitter"
-          },
-          {
-            "name": "Blog",
-            "link": "https://username.com",
-            "icon": "IoReader"
-          },
-          {
-            "name": "Appointment",
-            "link": "https://calendly.com",
-            "icon": "IoCalendar"
-          }
-        ]
-      }
+      "socialLinks": [
+        {
+          "name": "Github",
+          "link": "https://github.com",
+          "icon": "IoLogoGithub"
+        },
+        {
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com",
+          "icon": "IoLogoLinkedin"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com",
+          "icon": "IoLogoTwitter"
+        },
+        {
+          "name": "Blog",
+          "link": "https://username.com",
+          "icon": "IoReader"
+        },
+        {
+          "name": "Appointment",
+          "link": "https://calendly.com",
+          "icon": "IoCalendar"
+        }
+      ]
     }
     ```
 

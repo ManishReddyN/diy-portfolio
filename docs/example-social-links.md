@@ -4,7 +4,7 @@ description: >-
   for missing options.
 ---
 
-# Example social links
+# 🔗 Example social links
 
 ```json
 "otherExamples": [
