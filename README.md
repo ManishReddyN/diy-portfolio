@@ -11,6 +11,10 @@ Welcome to DIY Portfolio, a Next.js based website for creating your personalized
 - Responsive Design: Ensure a seamless experience on various devices with a responsive and modern design.
 - Contact Form with Notion Integration: Receive and store contact enquiries seamlessly using the Notion API.
 
+## One-click deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManishReddyN%2Fdiy-portfolio&env=NOTION_API_KEY,NOTION_DB_ID,NOTION_USER_ID&envDescription=Notion%20API%20key%2C%20DB%20ID%20and%20User%20ID%20needed%20for%20the%20contact%20form%20population.%20Read%20the%20diy-portfolio%20docs%20for%20more%20information.&envLink=https%3A%2F%2Fdocs.nmreddy.me%2Fdiy-portfolio%2Fadding-env-variables&project-name=my-portfolio&repository-name=my-portfolio&redirect-url=https%3A%2F%2Fdocs.nmreddy.me%2Fdiy-portfolio%2F&demo-title=Demo%20Portfolio&demo-description=A%20sample%20portfolio%20deployed%20on%20vercel.&demo-url=https%3A%2F%2Fdiy-portfolio-sample.vercel.app%2F&demo-image=https%3A%2F%2Fi.ibb.co%2FwLrJDLZ%2Fdemo-diy-portfolio.png)
+
 ### Getting Started 🛠️
 
 Follow these steps to set up and customize your DIY Portfolio:
