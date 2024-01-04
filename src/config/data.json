@@ -4,32 +4,27 @@
     "alt": "Display Picture"
   },
   "home": {
-    "name": "First Name",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "name": "Manish",
+    "intro": "I am a software engineer who loves technology, computers and everything gadgets. I enjoy building new things and relish the logical thinking that comes with it.\nWhen I am not working, I like to ride my bike and explore new trails.",
     "socialLinks": [
       {
         "name": "Github",
-        "link": "https://github.com",
+        "link": "https://github.com/ManishReddyN/",
         "icon": "IoLogoGithub"
       },
       {
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com",
+        "link": "https://www.linkedin.com/in/ManishReddyN/",
         "icon": "IoLogoLinkedin"
       },
       {
-        "name": "Twitter",
-        "link": "https://twitter.com",
-        "icon": "IoLogoTwitter"
-      },
-      {
         "name": "Blog",
-        "link": "https://username.com",
+        "link": "https://blog.nmreddy.me/",
         "icon": "IoReader"
       },
       {
-        "name": "Appointment",
-        "link": "https://calendly.com",
+        "name": "Calendly",
+        "link": "https://calendly.com/quick_connect-with-manish_reddy/30min",
         "icon": "IoCalendar"
       }
     ]
@@ -37,177 +32,262 @@
   "profile": {
     "profilePictureFileName": "Profile.webp",
     "profilePictureAlt": "Profile Image",
-    "name": "Full Legal Name",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Manish Reddy Nandineni",
+    "bio": "Building, researching, and exploring technology fuels my days. Bridging tech, products, policy, philosophy, and life&apos;s big questions, I seek diverse perspectives through stimulating conversations.",
     "details": {
-      "nationality": "Nationality",
-      "location": "Location",
-      "experienceStartDate": "2020-01-01",
-      "currentRole": "Role",
-      "openToCollaboration": "Yes/No",
-      "coreCompetencies": "Core competencies",
-      "personalPursuits": "Personal pursuits"
+      "nationality": "Indian",
+      "location": "Hyderabad",
+      "experienceStartDate": "2021-01-01",
+      "currentRole": "Senior Software Engineer",
+      "currentRoleShort": "Sr. SWE",
+      "openToCollaboration": "Yes",
+      "coreCompetencies": "Technology & Operations",
+      "coreCompetenciesShort": "Tech & Ops",
+      "personalPursuits": "Blockchain & AI"
     },
-    "resume": "Resume_Sample.pdf"
+    "resume": "Resume_ManishReddy_Nandineni.pdf"
   },
   "bio": {
     "workExperience": [
       {
-        "company": "Company1",
+        "company": "Siemens EDA",
         "roles": [
           {
-            "title": "Role1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2021 - Present"
+            "title": "Senior Software Engineer",
+            "description": "Leading critical customer service requests, I deliver impactful user stories in collaboration with product owners and stakeholders leveraging Java and other tools, ensuring seamless integration and enhancing the overall quality.",
+            "year": "Dec 2023 - Present"
           },
           {
-            "title": "Role2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2020 - Dec 2021"
+            "title": "Software Engineer",
+            "description": "Transitioning to a key role, I focused on developing user stories and addressing critical defects within the Capital suite of software tools for EDA, contributing to the enhancement of product reliability and performance.",
+            "year": "Jul 2022 - Dec 2023"
+          },
+          {
+            "title": "Software Developer Intern",
+            "description": "Initiated as an intern, contributed to E/E system software projects for aerospace and defense. Primarily focused on Capital Data Migrate tool, rapidly upskilling and laying the foundation for my growth within the organization.",
+            "year": "Jun 2021 - Jun 2022"
           }
         ],
-        "companyURL": "https://company1.com"
+        "companyURL": "https://eda.sw.siemens.com/en-US/"
       },
       {
-        "company": "Company2",
+        "company": "ContenTerra Software",
         "roles": [
           {
-            "title": "Role3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Jan 2020 - Dec 2020"
+            "title": "Software Development Intern",
+            "description": "Enhanced testing efficiency by automating processes, reducing turnaround by 600%. Contributed to last-minute bug fixes leveraging Node.js and React, conducting end-to-end testing for the timely deployment of a women safety app in collaboration with the city's police department.",
+            "year": "Feb 2021 - May 2021"
           }
         ],
-        "companyURL": "https://company2.com"
+        "companyURL": "https://www.contenterra.com/"
+      },
+      {
+        "company": "Stumagz",
+        "roles": [
+          {
+            "title": "Campus Lead",
+            "description": "Joined as a campus avenger in my freshman year at CMRCET's college magazine on stuMagz, contributing to the design team. Elevated to Campus Lead, continuing to actively contribute to the magazine's initiatives.",
+            "year": "Aug 2020 - Jun 2021"
+          }
+        ],
+        "companyURL": "https://www.stumagz.com/"
       }
     ],
     "education": [
       {
-        "institution": "Institution1",
+        "institution": "Dexterity School of Leadership and Entrepreneurship",
         "degrees": [
           {
-            "title": "Master",
-            "year": "Dec 2021 - Present",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          },
-          {
-            "title": "Bachelor",
-            "year": "Dec 2020 - Dec 2021",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "title": "Leadership Development Program",
+            "year": "Jun 2021 - Jun 2022",
+            "description": "Engaged in a comprehensive program spanning two semesters and twelve modules, providing in-depth digital mentoring. Graduated by participating in the rigorous final week-long residential training at IRMA, Anand."
           }
         ],
-        "institutionURL": "https://institution1.com"
+        "institutionURL": "https://www.dexschool.org/"
       },
       {
-        "institution": "Institution2",
+        "institution": "CMR College of Engineering & Technology",
         "degrees": [
           {
-            "title": "High School",
-            "year": "Jan 2020 - Dec 2020",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "title": "Bachelor of Technology",
+            "year": "Aug 2018 - Jun 2022",
+            "description": "Graduated with First Class with Distinction (CGPA: 8.34) in Computer Science & Engineering, specializing in data structures, algorithms, blockchain, and artificial intelligence. Represented CMRCET at national-level hackathons and competitions, including IASF, SCALE, and Smart India Hackathon."
           }
         ],
-        "institutionURL": "https://institution2.com"
+        "institutionURL": "https://www.cmrcet.ac.in/"
+      },
+      {
+        "institution": "VelocIITy Academy",
+        "degrees": [
+          {
+            "title": "Intermediate Education (Higher Secondary)",
+            "year": "Jun 2016 - May 2018",
+            "description": "Completed high schooling under the Telangana State Board of Intermediate Education with an aggregate of 95%.."
+          }
+        ],
+        "institutionURL": "https://www.linkedin.com/company/velociity"
+      },
+      {
+        "institution": "St. Joseph's Public School",
+        "degrees": [
+          {
+            "title": "I.C.S.E. (Secondary School)",
+            "year": "Jun 2006 - May 2016",
+            "description": "Completed secondary schooling with I.C.S.E. curriculum, securing a notable score of 84.6%. Served as the student president for the academic year 2015-16, and was awarded the Student of the Year for the class of 2016."
+          }
+        ],
+        "institutionURL": "https://sjpsmalakpet.org/"
       }
     ],
     "volunteerExperience": [
       {
-        "organization": "Organization1",
+        "organization": "Student Council (CMRCET)",
         "roles": [
           {
-            "title": "Role1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2021 - Present"
-          },
-          {
-            "title": "Role2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2020 - Dec 2021"
+            "title": "General Secretary",
+            "description": "Pivotal in founding the college's first student council, shaping its structure and constitution. As General Secretary, coordinated activities, bridged communication between management and students, and mentored committee heads. Initiating fundraisers, I led the organization of the college's major annual festivals, Azura & Carpe Diem.",
+            "year": "Sep 2021 - Sep 2022"
           }
         ],
-        "organizationURL": "https://organization1.com"
+        "organizationURL": "https://cmrcet.ac.in/files/committe/sc-converted.pdf"
       },
       {
-        "organization": "Organization2",
+        "organization": "League of Coders",
         "roles": [
           {
-            "title": "Role3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Jan 2020 - Dec 2020"
+            "title": "President",
+            "description": "Championed a thriving programming culture by organizing intercollegiate hackathons and programming contests. Conducted multiple sessions on data structures, algorithms, and development for junior students. Successfully hosted major inter-college events, including 'Code League' and 'DevJam'.",
+            "year": "Jan 2020 - Jul 2021"
           }
         ],
-        "organizationURL": "https://organization2.com"
+        "organizationURL": "https://www.linkedin.com/company/loc-cmrcet/"
+      },
+      {
+        "organization": "We the Circle Initiative",
+        "roles": [
+          {
+            "title": "Volunteer",
+            "description": "Volunteered with the design team for four months, managing social media posts and amassing a following of over 300 followers. Coordinated and executed the event 'Being the Voice', dedicated to raising awareness on topics such as gender orientation and women empowerment.",
+            "year": "May 2019 - Present"
+          }
+        ],
+        "organizationURL": "https://www.instagram.com/wethecircleinitiative/"
       }
     ]
   },
   "interests": [
     {
-      "title": "Interest 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "MdHome"
+      "title": "Blockchain",
+      "description": "Experienced in crafting blockchain solutions using Hyperledger Besu, Solidity, and Ethereum. My focus lies in building private blockchain networks tailored for transformative applications in academia and the public sector.",
+      "icon": "GrCubes"
     },
     {
-      "title": "Interest 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "title": "Artificial Intelligence",
+      "description": "Certified IBM AI Engineer with expertise in SSDs and YOLO algorithms for image detection. Skilled in building deep learning models for scene analysis. Currently expanding my knowledge with a focus on SLMs.",
       "icon": "RiRobot2Line"
     },
     {
-      "title": "Interest 3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "title": "Digital Governance",
+      "description": "Passionate about the intersection of technology and policy. Eager to contribute to the development of products that facilitate effective governance. Experienced in working with non-profit organizations.",
+      "icon": "RiGovernmentLine"
+    },
+    {
+      "title": "Software Development",
+      "description": "Passionate about creating impactful products, I have hands-on experience building websites, applications and backend services. Currently honing my skills in crafting clean and efficient software for optimal user experiences.",
+      "icon": "MdDevicesOther"
+    },
+    {
+      "title": "Smart Systems",
+      "description": "Extensive hands-on experience in developing Arduino and IoT projects. Worked under the esteemed guidance of Padmasri Chintakindi Mallesham to enhance the control unit and working of 'Laxmi Asu Machine' using Arduino.",
       "icon": "HiOutlineChip"
     },
     {
-      "title": "Interest 4",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "title": "Motorcycling",
+      "description": "I'm an avid motorcycle enthusiast, exploring various outskirts of Hyderabad on frequent rides. Recently completed my longest solo ride, covering over 2100 kms. Always up for a chat about bikes and adventure.",
       "icon": "GiFullMotorcycleHelmet"
-    },
-    {
-      "title": "Interest 5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "AiFillAlert"
     }
   ],
   "portfolio": {
     "portfolioItems": [
       {
-        "title": "Project 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "https://github.com",
-        "imageName": "Project 1.webp",
-        "imageAlt": "Project 1 Image",
-        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+        "title": "VeriCert",
+        "description": "A service for issuing and verifying digital academic credentials, constructed on private blockchain networks.",
+        "link": "https://vericert.vercel.app",
+        "imageName": "vericert.webp",
+        "imageAlt": "VeriCert Image",
+        "technologies": ["Ethereum", "Hyperledger Besu", "Solidity"]
       },
       {
-        "title": "Project 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "https://github.com",
-        "imageName": "Project 2.webp",
-        "imageAlt": "Project 2 Image",
-        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+        "title": "Asu Machine Enhancement",
+        "description": "Improved Laxmi Asu Machine, enabled diverse fabric designs for Pochampally artisans using Arduino.",
+        "link": "https://docs.nmreddy.me/laxmi-asu-machine/",
+        "imageName": "arduino.webp",
+        "imageAlt": "Arduino Image",
+        "technologies": ["Arduino", "Hardware Integration", "Sensors"]
+      },
+      {
+        "title": "DIY Portfolio",
+        "description": "A user-friendly, open-source portfolio website that can be cloned and personalized with a single config file modification.",
+        "link": "https://diy-portfolio-sample.vercel.app",
+        "imageName": "portfolio.webp",
+        "imageAlt": "Portfolio Image",
+        "technologies": ["NextJS", "Edge Functions", "CSS", "Notion API"]
+      },
+      {
+        "title": "Linkz - URL Shortener",
+        "description": "A URL shortening service created utilizing Node.js, React.js, and MongoDB, with the option to customize the trailing part.",
+        "link": "https://github.com/ManishReddyN/link-shortener",
+        "imageName": "linkz.webp",
+        "imageAlt": "Linkz Image",
+        "technologies": ["React", "NodeJS", "MongoDB"]
+      },
+      {
+        "title": "Code Runner",
+        "description": "Free online compiler for C, C++, Java, and Python, boosts productivity with 2-second link generation and intuitive UI.",
+        "link": "https://github.com/ManishReddyN/IDE",
+        "imageName": "coderunner.webp",
+        "imageAlt": "Code Runner Image",
+        "technologies": ["React", "NodeJS", "MongoDB", "EMKC API"]
+      },
+      {
+        "title": "De-cent Books",
+        "description": "An Ethereum Blockchain-based bookshop with decentralized e-commerce, employing Smart Contracts.",
+        "link": "https://github.com/ManishReddyN/de-cent-books-dapp",
+        "imageName": "decentbooks.webp",
+        "imageAlt": "De-cent Books Image",
+        "technologies": ["Truffle", "Ethereum", "Solidity", "React"]
       }
     ]
   },
   "archive": {
     "archiveItems": [
       {
-        "title": "Blog 1",
-        "date": "Jan 2020",
-        "imageName": "Blog 1.webp   ",
-        "imageAlt": "Blog Image",
-        "link": "https://medium.com"
+        "title": "VeriCert White Paper",
+        "date": "Nov 2023",
+        "imageName": "VeriCert-WhitePaper.webp",
+        "imageAlt": "Vericert White Paper Cover",
+        "link": "https://vericert.vercel.app"
       },
       {
-        "title": "Paper 1",
-        "date": "Jan 2020",
-        "imageName": "Paper 1.webp",
-        "imageAlt": "Paper Image",
-        "link": "https://arxiv.org"
+        "title": "Building Code Runner",
+        "date": "Jun 2021",
+        "imageName": "Building-CodeRunner.webp",
+        "imageAlt": "Blog Cover Image",
+        "link": "https://blog.nmreddy.me/series/code-runner"
+      },
+      {
+        "title": "#100DaysOfCode Challenge",
+        "date": "Jun 2020",
+        "imageName": "100-Days-Of-Code.webp",
+        "imageAlt": "Blog Cover Image",
+        "link": "https://blog.nmreddy.me/series/100doc"
       }
     ]
   },
   "contact": {
-    "phone": "1234567890",
-    "emailID": "email@example.com",
-    "address": "123 Main St, Anytown USA 12345",
-    "addressLink": "https://www.google.com/maps"
+    "phone": "+91 707 569 8828",
+    "emailID": "hello@nmreddy.me",
+    "address": "Hyderabad, Telangana",
+    "addressLink": "https://www.google.com/maps/place/Hyderabad,+Telangana/"
   }
 }
