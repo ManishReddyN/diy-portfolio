@@ -15,12 +15,16 @@ Welcome to DIY Portfolio, a Next.js based website for creating your personalized
 
 Follow these steps to set up and customize your DIY Portfolio:
 
+#### 0. Fork the Repository 🍴
+
+Fork the GitHub repository to create a copy of your own by clicking on the fork button above or by clicking [here](https://github.com/ManishReddyN/diy-portfolio/fork).
+
 #### 1. Clone the Repository 📋
 
-Clone this repository to your local machine:
+Clone this forked repository to your local machine:
 
 ```bash
-git clone https://github.com/ManishReddyN/diy-portfolio.git
+git clone https://github.com/<your-github-username>/<fork-repo-name>.git
 ```
 
 #### 2. Install Dependencies ⏬
