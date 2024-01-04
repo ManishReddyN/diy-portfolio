@@ -66,16 +66,10 @@ export default function Profile() {
                   Years
                 </li>
               )}
-              {profileData.details.currentRole && !isSmallScreen && (
+              {profileData.details.currentRole && (
                 <li>
                   <b>Current Role</b>
                   {profileData.details.currentRole}
-                </li>
-              )}
-              {profileData.details.currentRoleShort && isSmallScreen && (
-                <li>
-                  <b>Current Role</b>
-                  {profileData.details.currentRoleShort}
                 </li>
               )}
               {profileData.details.openToCollaboration && (
@@ -84,16 +78,10 @@ export default function Profile() {
                   {profileData.details.openToCollaboration}
                 </li>
               )}
-              {profileData.details.coreCompetencies && !isSmallScreen && (
+              {profileData.details.coreCompetencies && (
                 <li>
                   <b>Core Competencies</b>{" "}
                   {profileData.details.coreCompetencies}
-                </li>
-              )}
-              {profileData.details.coreCompetenciesShort && isSmallScreen && (
-                <li>
-                  <b>Core Competencies</b>{" "}
-                  {profileData.details.coreCompetenciesShort}
                 </li>
               )}
               {profileData.details.personalPursuits && (
