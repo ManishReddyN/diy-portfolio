@@ -166,6 +166,28 @@
       "icon": "AiFillAlert"
     }
   ],
+  "skills": [
+    {
+      "title": "Skill 1",
+      "icon": "LiaJava"
+    },
+    {
+      "title": "Skill 2",
+      "icon": "RiJavascriptFill"
+    },
+    {
+      "title": "Skill 3",
+      "icon": "FaToolbox "
+    },
+    {
+      "title": "Skill 4",
+      "icon": "MdDesignServices"
+    },
+    {
+      "title": "Skill 5",
+      "icon": "AiFillAccountBook"
+    }
+  ],
   "portfolio": {
     "portfolioItems": [
       {
