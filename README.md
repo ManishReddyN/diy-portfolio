@@ -1,12 +1,13 @@
 # 👨‍💻 DIY Portfolio
+![img](https://i.ibb.co/wLrJDLZ/demo-diy-portfolio.png)
 
 Welcome to DIY Portfolio, a Next.js based website for creating your personalized portfolio with ease. This minimalistic and customizable portfolio allows you to showcase your skills, projects, and experiences hassle-free.
 
 ### Features 🌟
 
-- Easy Configuration: Customize your portfolio by updating the data.json file. Follow the official documentation for detailed instructions.
-- Project Showcase: Display your projects with details, including titles, descriptions, images, and technologies used.
-- Skills Section: Highlight your skills in a dedicated section to make a strong impression.
+- **Easy Configuration ⚙️**: Customize your portfolio by updating the data.json file. Follow the official documentation for detailed instructions.
+- **Project Showcase 🖼️**: Display your projects with details, including titles, descriptions, images, and technologies used.
+- **Expertise Section 🛠️**: Highlight your skills and interests in a dedicated section to make a strong impression.
 - Social Media Integration: Provide links to your social media profiles for easy connectivity.
 - Responsive Design: Ensure a seamless experience on various devices with a responsive and modern design.
 - Contact Form with Notion Integration: Receive and store contact enquiries seamlessly using the Notion API.
