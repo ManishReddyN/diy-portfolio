@@ -31,3 +31,15 @@ Please follow the steps in [documentation](https://docs.nmreddy.me/diy-portfolio
 ## Issues & Queries ⁉️
 
 Please use the discussions and issues spaces to ask your queries or to raise issues.
+
+## Author 👩‍💻
+
+- Manish Reddy Nandineni ([nmreddy.me](https://nmreddy.me))
+
+## Websites Created with DIY Portfolio 🌐
+
+| Name              | URL                                  |
+|-------------------|--------------------------------------|
+|Manish Reddy Nandineni | [Manish's Portfolio](https://nmreddy.me)
+
+To add your website to the list, raise a pull request by adding your name to the table. Follow the PR guidelines listed [here](https://docs.nmreddy.me/diy-portfolio).
