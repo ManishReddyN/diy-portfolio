@@ -37,6 +37,15 @@ Please use the discussions and issues spaces to ask your queries or to raise iss
 
 - Manish Reddy Nandineni ([nmreddy.me](https://nmreddy.me))
 
+## Credits 🙏
+
+- This project is built with [Next.js](https://nextjs.org/) and deployed on [Vercel](https://vercel.com/).
+
+## Project Disclaimer 🚧
+
+- This project drew inspiration from the ["Chester Portfolio" template](https://preview.themeforest.net/item/chester-react-personal-portfolio-template/full_screen_preview/24952954) on Envato. The design was recreated independently due to budget constraints preventing the purchase of the $12 template. While visually influenced by the original design, no code was directly copied.
+
+
 <br/>
 
 ---
