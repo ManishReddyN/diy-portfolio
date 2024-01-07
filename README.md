@@ -17,16 +17,17 @@
 - **Responsive Design 📐**: Ensure a seamless experience on various devices with a responsive and modern design.
 - **Contact Form with Notion Integration 📬**: Receive and store contact enquiries seamlessly using the Notion API.
 
-## Vercel One-click deploy 🚚
+## Deployment ⚙️
 
-#### Click the button below and patiently wait for the deployment process to complete. Once finished, you'll be redirected to the [documentation](https://docs.nmreddy.me/diy-portfolio/), where you can find additional steps for the setup.
+Please follow the steps in [documentation](https://docs.nmreddy.me/diy-portfolio/) to deploy your version of DIY Portfolio.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManishReddyN%2Fdiy-portfolio&env=NOTION_API_KEY,NOTION_DB_ID,NOTION_USER_ID&envDescription=Notion%20API%20key%2C%20DB%20ID%20and%20User%20ID%20needed%20for%20the%20contact%20form%20population.%20Click%20on%20Learn%20More%20for%20more%20information.&envLink=https%3A%2F%2Fdocs.nmreddy.me%2Fdiy-portfolio%2Fadding-env-variables&project-name=my-portfolio&repository-name=my-portfolio&redirect-url=https%3A%2F%2Fdocs.nmreddy.me%2Fdiy-portfolio%2F&demo-title=Demo%20Portfolio&demo-description=A%20sample%20portfolio%20deployed%20on%20vercel.&demo-url=https%3A%2F%2Fdiy-portfolio-sample.vercel.app%2F&demo-image=https%3A%2F%2Fi.ibb.co%2FwLrJDLZ%2Fdemo-diy-portfolio.png)
+## Customization✏️
 
+Feel free to personalize the styling, layout, and content to match your preferences. The website utilizes Next.js components, making it straightforward to modify and expand.
 
-## Manual Deployment ⚙️
+## License 🪪
 
-Please follow the steps in [documentation](https://docs.nmreddy.me/diy-portfolio/) to manually deploy the website.
+This project is licensed under the Mozilla Public License 2.0 - see the LICENSE.md file for details.
 
 ## Issues & Queries ⁉️
 
@@ -36,10 +37,17 @@ Please use the discussions and issues spaces to ask your queries or to raise iss
 
 - Manish Reddy Nandineni ([nmreddy.me](https://nmreddy.me))
 
+<br/>
+
+---
+
+**Craft your unique portfolio with DIY Portfolio! If you have any questions or suggestions, refer to the documentation or feel free to reach out. Happy showcasing!**
+
 ## Websites Created with DIY Portfolio 🌐
 
 | Name              | URL                                  |
 |-------------------|--------------------------------------|
 |Manish Reddy Nandineni | [Manish's Portfolio](https://nmreddy.me)
 
-To include your website in the list, submit a pull request by appending your name to the table. Adhere to the pull request guidelines outlined in this [document](https://docs.nmreddy.me/diy-portfolio).
+To include your website in the list, submit a pull request by appending your name to the table. Adhere to the pull request guidelines outlined in this [document](https://docs.nmreddy.me/diy-portfolio/pr-guidelines).
+
