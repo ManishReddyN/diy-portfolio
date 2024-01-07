@@ -10,7 +10,7 @@
 ## Features 🌟
 
 - **Easy Configuration ⚙️**: Customize your portfolio by updating the data.json file. Follow the official documentation for detailed instructions.
-- **One-click Deploy 🚚**: Deployable with a single click using Vercel.
+- **Easy Deploy 🚚**: Deployable with a few clicks using Vercel.
 - **Project Showcase 🖼️**: Display your projects with details, including titles, descriptions, images, and technologies used.
 - **Expertise Section 🛠️**: Highlight your skills and interests in a dedicated section to make a strong impression.
 - **Social Media Integration 📱**: Provide links to your social media profiles for easy connectivity.
