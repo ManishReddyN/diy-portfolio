@@ -8,6 +8,7 @@
 
 #### Welcome to DIY Portfolio, a Next.js based website for creating your personalized portfolio with ease. This minimalistic and customizable portfolio allows you to showcase your skills, projects, and experiences hassle-free.
 
+![Static Badge](https://img.shields.io/badge/available-available-blue?style=flat&logo=gitbook&logoColor=white&label=docs&link=https%3A%2F%2Fdocs.nmreddy.me%2Fdiy-portfolio%2F)
 ![Build Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FManishReddyN%2Fdiy-portfolio%2Fdeployments%2F1282605238%2Fstatuses&query=%24..state&style=flat&logo=vercel&label=build)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ManishReddyN/diy-portfolio?logo=github&style=flat)
 [![GitHub forks](https://img.shields.io/github/forks/ManishReddyN/diy-portfolio?logo=github&style=flat)](https://github.com/ManishReddyN/diy-portfolio/fork)
