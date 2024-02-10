@@ -50,7 +50,6 @@ Please use the discussions and issues spaces to ask your queries or to raise iss
 - This project uses the following open-source libraries and a big thanks to all of the owners and contributors of them:
   * [`react-icons`](https://react-icons.github.io/react-icons/)
   * [`react-pro-sidebar`](https://azouaoui-med.github.io/react-pro-sidebar/)
-  * [`loadable/components`](https://github.com/gregberge/loadable-components)
 
 ## Project Disclaimer 🚧
 
