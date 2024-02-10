@@ -148,22 +148,22 @@
     {
       "title": "Interest 2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "RiRobot2Line"
+      "icon": "GiFullMotorcycleHelmet"
     },
     {
       "title": "Interest 3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "HiOutlineChip"
+      "icon": "AiFillAlert"
     },
     {
       "title": "Interest 4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "GiFullMotorcycleHelmet"
+      "icon": "BiChip"
     },
     {
       "title": "Interest 5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "AiFillAlert"
+      "icon": "RiRobot2Line"
     }
   ],
   "skills": [
@@ -173,7 +173,7 @@
     },
     {
       "title": "Skill 2",
-      "icon": "RiJavascriptFill"
+      "icon": "IoLogoPython"
     },
     {
       "title": "Skill 3",

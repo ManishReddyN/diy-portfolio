@@ -16,6 +16,13 @@
   margin-bottom: 20px;
   display: inline-block;
   font-weight: 100;
+  min-height: 50px;
+  position: relative;
+}
+.interestItemIcon svg {
+  position: absolute;
+  top: 0px;
+  max-height: 50px;
 }
 .interestItemIcon path {
   stroke: var(--primary-accent-color);
