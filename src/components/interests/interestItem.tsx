@@ -1,22 +1,23 @@
 import styles from "@/styles/interest_item.module.css";
 import { Col } from "react-bootstrap";
-import { DynamicIconType } from "../core/dynamicIconHelper";
+import ReactIcon from "../core/reactIcon";
 
 interface InterestItemProps {
-  icon: DynamicIconType;
+  iconName: string;
   title: string;
   description: string;
 }
 export default function InterestItem({
-  icon,
+  iconName,
   title,
   description,
 }: InterestItemProps) {
-  const Icon = icon;
   return (
     <Col lg={4} md={6} sm={12}>
       <div className={styles.interestItem}>
-        <Icon className={styles.interestItemIcon} />
+        <div className={styles.interestItemIcon}>
+          <ReactIcon iconName={iconName} />
+        </div>
         <h3 className={styles.interestItemHeading}>{title}</h3>
         <p className={styles.interestItemDescription}>{description}</p>
       </div>

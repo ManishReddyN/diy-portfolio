@@ -1,16 +1,16 @@
 import styles from "@/styles/skill_item.module.css";
-import { Col } from "react-bootstrap";
-import { DynamicIconType } from "../core/dynamicIconHelper";
+import ReactIcon from "../core/reactIcon";
 
 interface SkillItemProps {
-  icon: DynamicIconType;
+  iconName: string;
   title: string;
 }
-export default function SkillItem({ icon, title }: SkillItemProps) {
-  const Icon = icon;
+export default function SkillItem({ iconName, title }: SkillItemProps) {
   return (
     <span className={styles.skillItem}>
-      <Icon className={styles.skillItemIcon} />
+      <span className={styles.skillItemIcon}>
+        <ReactIcon iconName={iconName.trim()} />
+      </span>
       {title}
     </span>
   );

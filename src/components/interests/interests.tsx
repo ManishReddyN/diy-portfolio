@@ -2,7 +2,6 @@ import { Row } from "react-bootstrap";
 import Title from "../core/title";
 import InterestItem from "./interestItem";
 import data from "@/config/data.json";
-import { getDynamicIcon } from "../core/dynamicIconHelper";
 
 export default function Interests() {
   const interests = data.interests;
@@ -12,11 +11,11 @@ export default function Interests() {
       <Row>
         {interests &&
           interests.map((item) => {
-            const { icon, title, description } = item;
+            const { icon: iconName, title, description } = item;
             return (
               <InterestItem
                 key={title}
-                icon={getDynamicIcon(icon.trim())}
+                iconName={iconName}
                 title={title}
                 description={description}
               />
